@@ -24,11 +24,8 @@
 ---
 
 ## 🌐 Connect with Me
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Email: [your-email@example.com](ibtesamnaeem@gmail.com)
 - 🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-
+- 💼 LinkedIn: [linkedin.com/in/yourusername](linkedin.com/in/Ibtesam-Naeem)
+- 
 ---
-
----
-
