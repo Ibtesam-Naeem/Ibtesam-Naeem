@@ -30,17 +30,5 @@
 
 ---
 
-## 📈 GitHub Stats
-![Ibtasam's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbtasamNaeem&show_icons=true&theme=radical)
-
----
-
-## 🚀 Projects
-Here are some of my favorite projects:
-
-- **[Financial Tracker](https://github.com/username/financial-tracker)**: A Python-based program to track and analyze personal expenses.
-- **[Portfolio Manager](https://github.com/username/portfolio-manager)**: A web app to manage and visualize investment portfolios using React and Django.
-- **[Budgeting Tool](https://github.com/username/budget-tool)**: A tool to create, track, and analyze budgets.
-
 ---
 
