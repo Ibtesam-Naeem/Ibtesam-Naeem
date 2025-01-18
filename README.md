@@ -26,6 +26,6 @@
 ## 🌐 Connect with Me
 - 📫 Email: (ibtesamnaeem@gmail.com)
 - 🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 💼 LinkedIn: (linkedin.com/in/Ibtesam-Naeem)
+- 💼 LinkedIn: [linkedin.com/in/ibtesam-naeem](https://www.linkedin.com/in/ibtesam-naeem)
 - 
 ---
