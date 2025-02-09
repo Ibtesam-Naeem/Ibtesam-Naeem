@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - 🎓 **Computer Science Student** at Wilfrid Laurier University.
-- 💻 **Full-Stack Developer** passionate about building end-to-end solutions.
+- 💻 **Backend Developer passionate about building robust and scalable backend solutions.
 - 📊 Love creating **financial programs** that solve real-world problems.
 - 🌱 Currently exploring advanced backend development and financial modeling.
 
