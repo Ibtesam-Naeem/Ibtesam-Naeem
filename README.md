@@ -17,15 +17,15 @@
 
 ### Full-Stack Development:
 - **Frontend**: React, HTML, CSS, Bootstrap
-- **Backend**: Node.js, Express, Django
-- **Databases**: MySQL, MongoDB
+- **Backend**: Node.js, Django
+- **Databases**: MySQL
 - **Tools**: Git, Docker, VS Code
 
 ---
 
 ## 🌐 Connect with Me
 - 📫 Email: (ibtesamnaeem@gmail.com)
-- 🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌍 Portfolio: [ibtesamnaeem.dev](https:/ibtesamnaeem.dev)
 - 💼 LinkedIn: [linkedin.com/in/ibtesam-naeem](https://www.linkedin.com/in/ibtesam-naeem)
 - 
 ---
