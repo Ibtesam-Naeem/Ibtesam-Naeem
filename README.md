@@ -1,31 +1,40 @@
-# 👋 Hi, I'm Ibtasam Naeem!
+# 👋 Hi, I'm Ibtesam Naeem!
 
-## 🌟 About Me
-- 🎓 **Computer Science Student** at Wilfrid Laurier University.
-- 💻 **Backend Developer passionate about building robust and scalable backend solutions.
-- 📊 Love creating **financial programs** that solve real-world problems.
-- 🌱 Currently exploring advanced backend development and financial modeling.
+## 💼 Fintech-Focused Backend Developer
+
+I'm a **Computer Science & Finance student at Wilfrid Laurier University** with a strong passion for **financial technology**, backend systems, and automation. I specialize in building scalable tools that integrate real-time financial data, APIs, and automation pipelines to power smarter decision-making.
 
 ---
 
-## 🛠 Skills
-
-### Programming Languages:
-- 🐍 Python
-- ☕ Java
-- 🌐 JavaScript, HTML, CSS
-
-### Full-Stack Development:
-- **Frontend**: React, HTML, CSS, Bootstrap
-- **Backend**: Node.js, Django
-- **Databases**: MySQL
-- **Tools**: Git, Docker, VS Code
+## 🚀 What I Do
+- 🧠 Design and build **automated financial tools** for personal finance, stock tracking, and earnings analysis.
+- 🧰 Develop **backend APIs and services** using Python, FastAPI, and PostgreSQL.
+- 🧮 Combine finance + code: from portfolio analysis to economic data pipelines.
+- 🌍 Deploy cloud-native applications using **AWS**, **Docker**, and **CI/CD workflows**.
 
 ---
 
-## 🌐 Connect with Me
-- 📫 Email: (ibtesamnaeem@gmail.com)
-- 🌍 Portfolio: [ibtesamnaeem.dev](https:/ibtesamnaeem.dev)
+## 🛠 Tech Stack
+
+### 💻 Programming:
+- Python, Go, Java, JavaScript, HTML, CSS
+
+### 🧩 Frameworks:
+- **Backend**: FastAPI, Django, Node.js  
+- **Frontend**: React, Bootstrap
+
+### 🗄️ Databases:
+- PostgreSQL, MySQL
+
+### 🧰 Dev Tools & Cloud:
+- Git, Docker, GitHub Actions, AWS EC2, DigitalOcean
+
+---
+
+## 🌐 Let's Connect
+- 📫 Email: [ibtesamnaeem@gmail.com](mailto:ibtesamnaeem@gmail.com)
+- 🌍 Portfolio: [ibtesamnaeem.dev](https://ibtesamnaeem.dev)
 - 💼 LinkedIn: [linkedin.com/in/ibtesam-naeem](https://www.linkedin.com/in/ibtesam-naeem)
-- 
+- 🐙 GitHub: [github.com/Ibtesam-Naeem](https://github.com/Ibtesam-Naeem)
+
 ---
