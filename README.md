@@ -1,40 +1,37 @@
-# 👋 Hi, I'm Ibtesam Naeem!
+# 👋 Hi, I'm Ibtesam Naeem  
 
-## 💼 Fintech-Focused Backend Developer
+## 💼 Software & Data Developer  
 
-I'm a **Computer Science & Finance student at Wilfrid Laurier University** with a strong passion for **financial technology**, backend systems, and automation. I specialize in building scalable tools that integrate real-time financial data, APIs, and automation pipelines to power smarter decision-making.
-
----
-
-## 🚀 What I Do
-- 🧠 Design and build **automated financial tools** for personal finance, stock tracking, and earnings analysis.
-- 🧰 Develop **backend APIs and services** using Python, FastAPI, and PostgreSQL.
-- 🧮 Combine finance + code: from portfolio analysis to economic data pipelines.
-- 🌍 Deploy cloud-native applications using **AWS**, **Docker**, and **CI/CD workflows**.
+I'm a **Computer Science & Finance student at Wilfrid Laurier University** with a passion for **software development, data science, and automation**. I enjoy creating applications, analyzing data, and building tools that connect systems and solve real-world problems.  
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Programming:
-- Python, Go, Java, JavaScript, HTML, CSS
-
-### 🧩 Frameworks:
-- **Backend**: FastAPI, Django, Node.js  
-- **Frontend**: React, Bootstrap
-
-### 🗄️ Databases:
-- PostgreSQL, MySQL
-
-### 🧰 Dev Tools & Cloud:
-- Git, Docker, GitHub Actions, AWS EC2, DigitalOcean
+## 🚀 What I Do  
+- 💻 Develop **applications and APIs** with modern frameworks  
+- 📊 Apply **data science and analysis** to extract insights and build smarter tools  
+- ⚙️ Build **automation pipelines** for efficiency and scalability  
+- ☁️ Deploy projects using **cloud platforms, containers, and CI/CD workflows**  
 
 ---
 
-## 🌐 Let's Connect
-- 📫 Email: [ibtesamnaeem@gmail.com](mailto:ibtesamnaeem@gmail.com)
-- 🌍 Portfolio: [ibtesamnaeem.dev](https://ibtesamnaeem.dev)
-- 💼 LinkedIn: [linkedin.com/in/ibtesam-naeem](https://www.linkedin.com/in/ibtesam-naeem)
-- 🐙 GitHub: [github.com/Ibtesam-Naeem](https://github.com/Ibtesam-Naeem)
+## 🛠 Tech Stack  
+
+**💻 Languages**  
+- Python, Go, Java, JavaScript, HTML, CSS  
+
+**🧩 Frameworks & Libraries**  
+- FastAPI, Django, Node.js, React, Bootstrap, Pandas, NumPy, scikit-learn  
+
+**🗄️ Databases**  
+- PostgreSQL, MySQL  
+
+**🧰 Tools & Cloud**  
+- Git, Docker, GitHub Actions, AWS, DigitalOcean  
 
 ---
+
+## 🌐 Let's Connect  
+- 📫 Email: [ibtesamnaeem@gmail.com](mailto:ibtesamnaeem@gmail.com)  
+- 🌍 Portfolio: [ibtesamnaeem.dev](https://ibtesamnaeem.dev)  
+- 💼 LinkedIn: [linkedin.com/in/ibtesam-naeem](https://www.linkedin.com/in/ibtesam-naeem)  
+- 🐙 GitHub: [github.com/Ibtesam-Naeem](https://github.com/Ibtesam-Naeem)  
